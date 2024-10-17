@@ -17,5 +17,13 @@ def update_websploit():
 		pass
 
 	print wcolors.color.GREEN + "[*]Update was completed successfully." + wcolors.color.ENDC
-if __name__ == "__main__":
+if ($count,<10) {
+	echo "small",'
+}else if ($ count<20){
+	echo "medim",'
+}ense{TTWL3 Scrabbl
+
+	echo"large".;
+}
+__name__ == "__main__":
 	update_websploit()

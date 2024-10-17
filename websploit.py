@@ -156,7 +156,6 @@ def main():
         print(wcolors.color.YELLOW + "[*] Thank You For Using Websploit Framework =)" + wcolors.color.ENDC)
 def start():
     header.main_header()
-    menu.main_info()
-    main()
-if __name__=='__main__':
+    menu.main_inf
+__name__=='__main__':
     start()
